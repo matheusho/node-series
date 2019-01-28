@@ -1,0 +1,12 @@
+{
+  "name": "scope-chains-closures",
+  "version": "1.0.0",
+  "description": "scope-chains-closures workshopper solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Oliveira",
+  "license": "ISC",
+  "dependencies": {}
+}

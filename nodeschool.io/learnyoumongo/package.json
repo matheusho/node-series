@@ -1,0 +1,15 @@
+{
+  "name": "learnyoumongo",
+  "version": "1.0.0",
+  "description": "LearnYorMongo: it's a Workshopper of NodeSchool.io",
+  "main": "",
+  "dependencies": {
+    "mongodb": "^2.0.43"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Oliveira <oliveira.matheusde@gmail.com>",
+  "license": "ISC"
+}

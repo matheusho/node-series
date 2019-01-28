@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool.io",
+  "version": "1.0.0",
+  "description": "My workshoppers solutions for nodeschool.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusho/nodeschool.io.git"
+  },
+  "author": "Matheus Oliveira <oliveira.matheusde@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusho/nodeschool.io/issues"
+  },
+  "homepage": "https://github.com/matheusho/nodeschool.io#readme",
+  "dependencies": {
+    "git-it": "^1.6.9"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha tests --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "nock": "^5.2.1",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "nodemon": "^1.8.1",
+    "request": "^2.67.0"
+  }
+}
