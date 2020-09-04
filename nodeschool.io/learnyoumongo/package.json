@@ -4,7 +4,7 @@
   "description": "LearnYorMongo: it's a Workshopper of NodeSchool.io",
   "main": "",
   "dependencies": {
-    "mongodb": "^2.0.43"
+    "mongodb": "^3.6.1"
   },
   "devDependencies": {},
   "scripts": {
